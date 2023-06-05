@@ -19,5 +19,6 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "type": "module" 
+  "type": "module", 
+  "start": "nodemon app.js"
 }
